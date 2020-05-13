@@ -31,7 +31,7 @@
   },
   "devDependencies": {
     "cwex": "^1.0.2",
-    "lerna": "^3.16.0",
+    "lerna": "^3.21.0",
     "opencollective": "^1.0.3",
     "snyk": "^1.195.0",
     "start-server-and-test": "^1.10.6",
