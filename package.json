@@ -33,7 +33,7 @@
     "cwex": "^1.0.2",
     "lerna": "^3.16.0",
     "opencollective": "^1.0.3",
-    "snyk": "^1.195.0",
+    "snyk": "^1.330.4",
     "start-server-and-test": "^1.10.6",
     "typedoc": "^0.17.7",
     "typedoc-plugin-markdown": "^2.2.17",
